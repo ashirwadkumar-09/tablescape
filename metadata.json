@@ -1,0 +1,6 @@
+{
+  "name": "TABLESCAPE - Premium Cafe & Restaurant Discovery",
+  "description": "Find your next favourite spot. Discover exceptional cafes, restaurants, hidden gems, and unforgettable food experiences near you.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
